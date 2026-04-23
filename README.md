@@ -1,8 +1,12 @@
 # Overview
 
-As a senior software engineer with a background in C# and .NET, I wanted to explore Rust — a systems programming language known for memory safety and performance. This Hello World program is my first step into Rust, intentionally going beyond a single print statement to touch on the language's core concepts: immutable variables, functions, loops, and pattern matching.
- 
-My goal is to evaluate whether Rust is worth adding to my toolkit for security-focused and performance-critical development work.
+As a senior software engineer with a background in C# and .NET, I wanted to explore Rust—a systems programming language known for its focus on memory safety and performance. This “Hello, World” program is my first step into Rust. Rather than stopping at a single print statement, I intentionally expanded it to touch on core language concepts such as immutable variables, functions, loops, and pattern matching.
+
+My goal is to evaluate whether Rust is worth adding to my toolkit for security-focused and performance-critical development.
+
+My advantage is a strong foundation in abstraction, type systems, async programming, and modern tooling.
+
+My main challenge is Rust’s ownership and borrowing model, which replaces garbage collection and traditional references.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -14,8 +18,7 @@ My goal is to evaluate whether Rust is worth adding to my toolkit for security-f
 * Rust 1.95.0 / Cargo 1.95.0
 * Git + GitHub
 
-Rust is a statically typed, compiled systems programming language. It enforces memory safety at compile time through its ownership model — with no garbage collector and no runtime overhead.
-
+Rust is a statically typed, compiled systems programming language that enforces memory safety at compile time through its ownership model. It achieves this without a garbage collector and without introducing runtime overhead.
 
 
 # Useful Websites
