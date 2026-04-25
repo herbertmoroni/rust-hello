@@ -8,7 +8,7 @@ My advantage is a strong foundation in abstraction, type systems, async programm
 
 My main challenge is Rust’s ownership and borrowing model, which replaces garbage collection and traditional references.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/COzSF7utXjU)
 
 
 
